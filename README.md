@@ -18,7 +18,6 @@ A console-based Address Book Management System developed using C programming.
 - Pointers
 - Functions
 - File Handling
-- Modular Programming
 
 ## Project Structure
 
